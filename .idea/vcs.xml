@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Web_Lesson_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Web_Lesson_11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Web_Lesson_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Web_Lesson_3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Web_Lesson_4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Web_Lesson_5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Web_Lesson_5/Angular/CustomDatabindingDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Web_Lesson_5/Angular/LocalStorageDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Web_Lesson_5/ICP/ToDoICP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Web_Lesson_8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Web_Lesson_9" vcs="Git" />
+  </component>
+</project>
